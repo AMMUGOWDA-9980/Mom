@@ -1,2 +1,0 @@
-# Mom
-Go to clg 
